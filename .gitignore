@@ -1,0 +1,19 @@
+.clasprc.json
+.clasp.json
+
+# Node 
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Windows tenp file
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+.DS_Store
+
+.env
+.env.local
